@@ -1,0 +1,92 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.sub-header {
+    background: #ffcb05;
+    padding: 50px 0;
+    text-align: center;
+    color: #0056a6;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0 15px;
+}
+
+.hero-btn {
+    display: inline-block;
+    padding: 10px 30px;
+    background: #0056a6;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.hero-btn.red-btn {
+    background: #ff0000;
+}
+
+.community-section {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+.department {
+    margin: 30px 0;
+}
+
+.post-form textarea {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.posts {
+    margin-top: 20px;
+}
+
+.post {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.reply-btn {
+    margin-top: 10px;
+    background-color: #0056a6;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.reply-form {
+    margin-top: 10px;
+}
+
+.footer {
+    background: #0056a6;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.icons {
+    margin: 20px 0;
+}
+
+.icons i {
+    color: white;
+    margin: 0 10px;
+}
